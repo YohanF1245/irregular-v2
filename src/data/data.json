@@ -1,0 +1,932 @@
+[
+    {
+        "id": 1,
+        "question": "Quel est le prétérit du verbe 'to be' (être) ?",
+        "reponses": ["was/were", "been", "is", "are"],
+        "bonne_reponse": "was/were"
+      },
+      {
+        "id": 2,
+        "question": "Quel est le participe passé du verbe 'to become' (devenir) ?",
+        "reponses": ["become", "became", "becoming", "became"],
+        "bonne_reponse": "become"
+      },
+      {
+        "id": 3,
+        "question": "Quel est le prétérit du verbe 'to begin' (commencer) ?",
+        "reponses": ["begun", "began", "begin", "begins"],
+        "bonne_reponse": "began"
+      },
+      {
+        "id": 4,
+        "question": "Quel est le participe passé du verbe 'to break' (casser) ?",
+        "reponses": ["broke", "broken", "breaked", "break"],
+        "bonne_reponse": "broken"
+      },
+      {
+        "id": 5,
+        "question": "Quel est le prétérit du verbe 'to bring' (apporter) ?",
+        "reponses": ["brought", "bringed", "brung", "brang"],
+        "bonne_reponse": "brought"
+      },
+      {
+        "id": 6,
+        "question": "Quel est le participe passé du verbe 'to build' (construire) ?",
+        "reponses": ["built", "build", "builded", "builds"],
+        "bonne_reponse": "built"
+      },
+      {
+        "id": 7,
+        "question": "Quel est le prétérit du verbe 'to buy' (acheter) ?",
+        "reponses": ["bought", "buyed", "buy", "buys"],
+        "bonne_reponse": "bought"
+      },
+      {
+        "id": 8,
+        "question": "Quel est le participe passé du verbe 'to catch' (attraper) ?",
+        "reponses": ["caught", "catched", "catch", "catches"],
+        "bonne_reponse": "caught"
+      },
+      {
+        "id": 9,
+        "question": "Quel est le prétérit du verbe 'to choose' (choisir) ?",
+        "reponses": ["chose", "choosen", "choose", "chooses"],
+        "bonne_reponse": "chose"
+      },
+      {
+        "id": 10,
+        "question": "Quel est le participe passé du verbe 'to come' (venir) ?",
+        "reponses": ["came", "come", "comes", "comed"],
+        "bonne_reponse": "come"
+      },
+      {
+        "id": 11,
+        "question": "Quel est le prétérit du verbe 'to cost' (coûter) ?",
+        "reponses": ["cost", "costed", "costs", "costen"],
+        "bonne_reponse": "cost"
+      },
+      {
+        "id": 12,
+        "question": "Quel est le participe passé du verbe 'to cut' (couper) ?",
+        "reponses": ["cut", "cutted", "cuts", "cutten"],
+        "bonne_reponse": "cut"
+      },
+      {
+        "id": 13,
+        "question": "Quel est le prétérit du verbe 'to do' (faire) ?",
+        "reponses": ["did", "done", "doed", "does"],
+        "bonne_reponse": "did"
+      },
+      {
+        "id": 14,
+        "question": "Quel est le participe passé du verbe 'to draw' (dessiner) ?",
+        "reponses": ["drew", "drawn", "drawed", "draws"],
+        "bonne_reponse": "drawn"
+      },
+      {
+        "id": 15,
+        "question": "Quel est le prétérit du verbe 'to drink' (boire) ?",
+        "reponses": ["drank", "drinked", "drunk", "drinks"],
+        "bonne_reponse": "drank"
+      },
+      {
+        "id": 16,
+        "question": "Quel est le participe passé du verbe 'to drive' (conduire) ?",
+        "reponses": ["drove", "driven", "drived", "drives"],
+        "bonne_reponse": "driven"
+      },
+      {
+        "id": 17,
+        "question": "Quel est le prétérit du verbe 'to eat' (manger) ?",
+        "reponses": ["ate", "eaten", "eat", "eats"],
+        "bonne_reponse": "ate"
+      },
+      {
+        "id": 18,
+        "question": "Quel est le participe passé du verbe 'to fall' (tomber) ?",
+        "reponses": ["fell", "fallen", "fall", "falls"],
+        "bonne_reponse": "fallen"
+      },
+      {
+        "id": 19,
+        "question": "Quel est le prétérit du verbe 'to feel' (ressentir) ?",
+        "reponses": ["felt", "feels", "feelled", "feeling"],
+        "bonne_reponse": "felt"
+      },
+      {
+        "id": 20,
+        "question": "Quel est le participe passé du verbe 'to find' (trouver) ?",
+        "reponses": ["found", "finded", "finds", "find"],
+        "bonne_reponse": "found"
+      },
+      {
+        "id": 21,
+        "question": "Quel est le prétérit du verbe 'to fly' (voler) ?",
+        "reponses": ["flew", "flown", "flyed", "flies"],
+        "bonne_reponse": "flew"
+      },
+      {
+        "id": 22,
+        "question": "Quel est le participe passé du verbe 'to forget' (oublier) ?",
+        "reponses": ["forgot", "forgotten", "forgets", "forget"],
+        "bonne_reponse": "forgotten"
+      },
+      {
+        "id": 23,
+        "question": "Quel est le prétérit du verbe 'to get' (obtenir) ?",
+        "reponses": ["got", "gotten", "getted", "gets"],
+        "bonne_reponse": "got"
+      },
+      {
+        "id": 24,
+        "question": "Quel est le participe passé du verbe 'to give' (donner) ?",
+        "reponses": ["gave", "given", "gives", "give"],
+        "bonne_reponse": "given"
+      },
+      {
+        "id": 25,
+        "question": "Quel est le prétérit du verbe 'to go' (aller) ?",
+        "reponses": ["went", "gone", "goes", "going"],
+        "bonne_reponse": "went"
+      },
+      {
+        "id": 26,
+        "question": "Quel est le participe passé du verbe 'to grow' (grandir) ?",
+        "reponses": ["grew", "grown", "growed", "grows"],
+        "bonne_reponse": "grown"
+      },
+      {
+        "id": 27,
+        "question": "Quel est le prétérit du verbe 'to have' (avoir) ?",
+        "reponses": ["had", "has", "have", "having"],
+        "bonne_reponse": "had"
+      },
+      {
+        "id": 28,
+        "question": "Quel est le participe passé du verbe 'to hear' (entendre) ?",
+        "reponses": ["heard", "hears", "heared", "hearing"],
+        "bonne_reponse": "heard"
+      },
+      {
+        "id": 29,
+        "question": "Quel est le prétérit du verbe 'to hold' (tenir) ?",
+        "reponses": ["held", "holds", "holded", "holding"],
+        "bonne_reponse": "held"
+      },
+      {
+        "id": 30,
+        "question": "Quel est le participe passé du verbe 'to know' (savoir) ?",
+        "reponses": ["knew", "known", "knowed", "knows"],
+        "bonne_reponse": "known"
+      },
+      {
+        "id": 31,
+        "question": "Quel est le prétérit du verbe 'to leave' (partir) ?",
+        "reponses": ["left", "leaved", "leaves", "leaving"],
+        "bonne_reponse": "left"
+      },
+      {
+        "id": 32,
+        "question": "Quel est le participe passé du verbe 'to lend' (prêter) ?",
+        "reponses": ["lent", "lended", "lends", "lend"],
+        "bonne_reponse": "lent"
+      },
+      {
+        "id": 33,
+        "question": "Quel est le prétérit du verbe 'to let' (laisser) ?",
+        "reponses": ["let", "letted", "lets", "letting"],
+        "bonne_reponse": "let"
+      },
+      {
+        "id": 34,
+        "question": "Quel est le participe passé du verbe 'to lie' (être allongé) ?",
+        "reponses": ["lay", "lain", "lied", "lies"],
+        "bonne_reponse": "lain"
+      },
+      {
+        "id": 35,
+        "question": "Quel est le prétérit du verbe 'to lose' (perdre) ?",
+        "reponses": ["lost", "loses", "loss", "lose"],
+        "bonne_reponse": "lost"
+      },
+      {
+        "id": 36,
+        "question": "Quel est le participe passé du verbe 'to make' (faire) ?",
+        "reponses": ["made", "makes", "maked", "making"],
+        "bonne_reponse": "made"
+      },
+      {
+        "id": 37,
+        "question": "Quel est le prétérit du verbe 'to mean' (signifier) ?",
+        "reponses": ["meant", "means", "meaned", "meaning"],
+        "bonne_reponse": "meant"
+      },
+      {
+        "id": 38,
+        "question": "Quel est le participe passé du verbe 'to meet' (rencontrer) ?",
+        "reponses": ["met", "meets", "meeting", "meet"],
+        "bonne_reponse": "met"
+      },
+      {
+        "id": 39,
+        "question": "Quel est le prétérit du verbe 'to pay' (payer) ?",
+        "reponses": ["paid", "pay", "paying", "payed"],
+        "bonne_reponse": "paid"
+      },
+      {
+        "id": 40,
+        "question": "Quel est le participe passé du verbe 'to put' (mettre) ?",
+        "reponses": ["put", "puts", "putted", "putting"],
+        "bonne_reponse": "put"
+      },
+      {
+        "id": 41,
+        "question": "Quel est le prétérit du verbe 'to read' (lire) ?",
+        "reponses": ["read", "reads", "reading", "red"],
+        "bonne_reponse": "read"
+      },
+      {
+        "id": 42,
+        "question": "Quel est le participe passé du verbe 'to ride' (monter à cheval/vélo) ?",
+        "reponses": ["rode", "ridden", "rided", "rides"],
+        "bonne_reponse": "ridden"
+      },
+      {
+        "id": 43,
+        "question": "Quel est le prétérit du verbe 'to ring' (sonner) ?",
+        "reponses": ["rang", "ringed", "rung", "rings"],
+        "bonne_reponse": "rang"
+      },
+      {
+        "id": 44,
+        "question": "Quel est le participe passé du verbe 'to run' (courir) ?",
+        "reponses": ["ran", "runned", "run", "runs"],
+        "bonne_reponse": "run"
+      },
+      {
+        "id": 45,
+        "question": "Quel est le prétérit du verbe 'to say' (dire) ?",
+        "reponses": ["said", "says", "say", "sayed"],
+        "bonne_reponse": "said"
+      },
+      {
+        "id": 46,
+        "question": "Quel est le participe passé du verbe 'to see' (voir) ?",
+        "reponses": ["saw", "seen", "sees", "seeing"],
+        "bonne_reponse": "seen"
+      },
+      {
+        "id": 47,
+        "question": "Quel est le prétérit du verbe 'to sell' (vendre) ?",
+        "reponses": ["sold", "sell", "sells", "selled"],
+        "bonne_reponse": "sold"
+      },
+      {
+        "id": 48,
+        "question": "Quel est le participe passé du verbe 'to send' (envoyer) ?",
+        "reponses": ["sent", "send", "sending", "sended"],
+        "bonne_reponse": "sent"
+      },
+      {
+        "id": 49,
+        "question": "Quel est le prétérit du verbe 'to show' (montrer) ?",
+        "reponses": ["showed", "shown", "shows", "showing"],
+        "bonne_reponse": "showed"
+      },
+      {
+        "id": 50,
+        "question": "Quel est le participe passé du verbe 'to shut' (fermer) ?",
+        "reponses": ["shut", "shutted", "shuts", "shutting"],
+        "bonne_reponse": "shut"
+      },
+      {
+        "id": 51,
+        "question": "Quel est le prétérit du verbe 'to sing' (chanter) ?",
+        "reponses": ["sang", "sing", "sings", "singed"],
+        "bonne_reponse": "sang"
+      },
+      {
+        "id": 52,
+        "question": "Quel est le participe passé du verbe 'to sit' (s'asseoir) ?",
+        "reponses": ["sat", "sits", "sitted", "sitting"],
+        "bonne_reponse": "sat"
+      },
+      {
+        "id": 53,
+        "question": "Quel est le prétérit du verbe 'to sleep' (dormir) ?",
+        "reponses": ["slept", "sleeps", "sleeped", "sleeping"],
+        "bonne_reponse": "slept"
+      },
+      {
+        "id": 54,
+        "question": "Quel est le participe passé du verbe 'to speak' (parler) ?",
+        "reponses": ["spoke", "spoken", "speaked", "speaks"],
+        "bonne_reponse": "spoken"
+      },
+      {
+        "id": 55,
+        "question": "Quel est le prétérit du verbe 'to spend' (dépenser) ?",
+        "reponses": ["spent", "spends", "spended", "spending"],
+        "bonne_reponse": "spent"
+      },
+      {
+        "id": 56,
+        "question": "Quel est le participe passé du verbe 'to stand' (se tenir debout) ?",
+        "reponses": ["stood", "standed", "stands", "standing"],
+        "bonne_reponse": "stood"
+      },
+      {
+        "id": 57,
+        "question": "Quel est le prétérit du verbe 'to steal' (voler) ?",
+        "reponses": ["stole", "steals", "stealed", "stealing"],
+        "bonne_reponse": "stole"
+      },
+      {
+        "id": 58,
+        "question": "Quel est le participe passé du verbe 'to swim' (nager) ?",
+        "reponses": ["swam", "swum", "swims", "swimming"],
+        "bonne_reponse": "swum"
+      },
+      {
+        "id": 59,
+        "question": "Quel est le prétérit du verbe 'to take' (prendre) ?",
+        "reponses": ["took", "takes", "take", "taken"],
+        "bonne_reponse": "took"
+      },
+      {
+        "id": 60,
+        "question": "Quel est le participe passé du verbe 'to teach' (enseigner) ?",
+        "reponses": ["taught", "teachs", "teached", "teaching"],
+        "bonne_reponse": "taught"
+      },
+      {
+        "id": 61,
+        "question": "Quel est le prétérit du verbe 'to tell' (dire) ?",
+        "reponses": ["told", "tells", "telled", "telling"],
+        "bonne_reponse": "told"
+      },
+      {
+        "id": 62,
+        "question": "Quel est le participe passé du verbe 'to think' (penser) ?",
+        "reponses": ["thought", "thinks", "thinked", "thinking"],
+        "bonne_reponse": "thought"
+      },
+      {
+        "id": 63,
+        "question": "Quel est le prétérit du verbe 'to understand' (comprendre) ?",
+        "reponses": ["understood", "understands", "understanded", "understanding"],
+        "bonne_reponse": "understood"
+      },
+      {
+        "id": 64,
+        "question": "Quel est le participe passé du verbe 'to wake' (réveiller) ?",
+        "reponses": ["woke", "woken", "waked", "wakes"],
+        "bonne_reponse": "woken"
+      },
+      {
+        "id": 65,
+        "question": "Quel est le prétérit du verbe 'to wear' (porter) ?",
+        "reponses": ["wore", "wears", "weared", "wearing"],
+        "bonne_reponse": "wore"
+      },
+      {
+        "id": 66,
+        "question": "Quel est le participe passé du verbe 'to win' (gagner) ?",
+        "reponses": ["won", "wins", "winned", "winning"],
+        "bonne_reponse": "won"
+      },
+      {
+        "id": 67,
+        "question": "Quel est le prétérit du verbe 'to write' (écrire) ?",
+        "reponses": ["wrote", "writes", "writed", "writing"],
+        "bonne_reponse": "wrote"
+      },
+      {
+        "id": 68,
+        "question": "Quel est le participe passé du verbe 'to arise' (se lever) ?",
+        "reponses": ["arose", "arisen", "arising", "arised"],
+        "bonne_reponse": "arisen"
+      },
+      {
+        "id": 69,
+        "question": "Quel est le prétérit du verbe 'to bear' (porter/supporter) ?",
+        "reponses": ["bore", "bears", "bearing", "beared"],
+        "bonne_reponse": "bore"
+      },
+      {
+        "id": 70,
+        "question": "Quel est le participe passé du verbe 'to beat' (battre) ?",
+        "reponses": ["beat", "beaten", "beats", "beating"],
+        "bonne_reponse": "beaten"
+      },
+      {
+        "id": 71,
+        "question": "Quel est le prétérit du verbe 'to bend' (plier) ?",
+        "reponses": ["bent", "bends", "bending", "bended"],
+        "bonne_reponse": "bent"
+      },
+      {
+        "id": 72,
+        "question": "Quel est le participe passé du verbe 'to bet' (parier) ?",
+        "reponses": ["bet", "bets", "betting", "betted"],
+        "bonne_reponse": "bet"
+      },
+      {
+        "id": 73,
+        "question": "Quel est le prétérit du verbe 'to bite' (mordre) ?",
+        "reponses": ["bit", "bites", "bitten", "bitting"],
+        "bonne_reponse": "bit"
+      },
+      {
+        "id": 74,
+        "question": "Quel est le participe passé du verbe 'to blow' (souffler) ?",
+        "reponses": ["blew", "blows", "blowed", "blown"],
+        "bonne_reponse": "blown"
+      },
+      {
+        "id": 75,
+        "question": "Quel est le prétérit du verbe 'to bring' (apporter) ?",
+        "reponses": ["brought", "brings", "bringing", "bringed"],
+        "bonne_reponse": "brought"
+      },
+      {
+        "id": 76,
+        "question": "Quel est le participe passé du verbe 'to build' (construire) ?",
+        "reponses": ["built", "builds", "building", "builded"],
+        "bonne_reponse": "built"
+      },
+      {
+        "id": 77,
+        "question": "Quel est le prétérit du verbe 'to burn' (brûler) ?",
+        "reponses": ["burnt", "burns", "burning", "burned"],
+        "bonne_reponse": "burnt"
+      },
+      {
+        "id": 78,
+        "question": "Quel est le participe passé du verbe 'to burst' (éclater) ?",
+        "reponses": ["burst", "bursts", "bursting", "bursted"],
+        "bonne_reponse": "burst"
+      },
+      {
+        "id": 79,
+        "question": "Quel est le prétérit du verbe 'to buy' (acheter) ?",
+        "reponses": ["bought", "buys", "buying", "buyed"],
+        "bonne_reponse": "bought"
+      },
+      {
+        "id": 80,
+        "question": "Quel est le participe passé du verbe 'to catch' (attraper) ?",
+        "reponses": ["caught", "catches", "catching", "catched"],
+        "bonne_reponse": "caught"
+      },
+      {
+        "id": 81,
+        "question": "Quel est le prétérit du verbe 'to choose' (choisir) ?",
+        "reponses": ["chose", "chooses", "choosing", "choosen"],
+        "bonne_reponse": "chose"
+      },
+      {
+        "id": 82,
+        "question": "Quel est le participe passé du verbe 'to cling' (s'accrocher) ?",
+        "reponses": ["clung", "clings", "clinging", "clinged"],
+        "bonne_reponse": "clung"
+      },
+      {
+        "id": 83,
+        "question": "Quel est le prétérit du verbe 'to come' (venir) ?",
+        "reponses": ["came", "comes", "coming", "comed"],
+        "bonne_reponse": "came"
+      },
+      {
+        "id": 84,
+        "question": "Quel est le participe passé du verbe 'to cost' (coûter) ?",
+        "reponses": ["cost", "costs", "costing", "costed"],
+        "bonne_reponse": "cost"
+      },
+      {
+        "id": 85,
+        "question": "Quel est le prétérit du verbe 'to cut' (couper) ?",
+        "reponses": ["cut", "cuts", "cutting", "cutted"],
+        "bonne_reponse": "cut"
+      },
+      {
+        "id": 86,
+        "question": "Quel est le participe passé du verbe 'to deal' (traiter) ?",
+        "reponses": ["dealt", "deals", "dealing", "dealed"],
+        "bonne_reponse": "dealt"
+      },
+      {
+        "id": 87,
+        "question": "Quel est le prétérit du verbe 'to dig' (creuser) ?",
+        "reponses": ["dug", "digs", "digging", "digged"],
+        "bonne_reponse": "dug"
+      },
+      {
+        "id": 88,
+        "question": "Quel est le participe passé du verbe 'to do' (faire) ?",
+        "reponses": ["done", "does", "doing", "doed"],
+        "bonne_reponse": "done"
+      },
+      {
+        "id": 89,
+        "question": "Quel est le prétérit du verbe 'to draw' (dessiner) ?",
+        "reponses": ["drew", "draws", "drawing", "drawed"],
+        "bonne_reponse": "drew"
+      },
+      {
+        "id": 90,
+        "question": "Quel est le participe passé du verbe 'to dream' (rêver) ?",
+        "reponses": ["dreamt", "dreams", "dreaming", "dreamed"],
+        "bonne_reponse": "dreamt"
+      },
+      {
+        "id": 91,
+        "question": "Quel est le prétérit du verbe 'to drink' (boire) ?",
+        "reponses": ["drank", "drinks", "drinking", "drinked"],
+        "bonne_reponse": "drank"
+      },
+      {
+        "id": 92,
+        "question": "Quel est le participe passé du verbe 'to drive' (conduire) ?",
+        "reponses": ["driven", "drives", "driving", "drived"],
+        "bonne_reponse": "driven"
+      },
+      {
+        "id": 93,
+        "question": "Quel est le prétérit du verbe 'to eat' (manger) ?",
+        "reponses": ["ate", "eats", "eating", "eated"],
+        "bonne_reponse": "ate"
+      },
+      {
+        "id": 94,
+        "question": "Quel est le participe passé du verbe 'to fall' (tomber) ?",
+        "reponses": ["fallen", "falls", "falling", "falled"],
+        "bonne_reponse": "fallen"
+      },
+      {
+        "id": 95,
+        "question": "Quel est le prétérit du verbe 'to feed' (nourrir) ?",
+        "reponses": ["fed", "feeds", "feeding", "feeded"],
+        "bonne_reponse": "fed"
+      },
+      {
+        "id": 96,
+        "question": "Quel est le participe passé du verbe 'to feel' (ressentir) ?",
+        "reponses": ["felt", "feels", "feeling", "feeled"],
+        "bonne_reponse": "felt"
+      },
+      {
+        "id": 97,
+        "question": "Quel est le prétérit du verbe 'to fight' (combattre) ?",
+        "reponses": ["fought", "fights", "fighting", "fighted"],
+        "bonne_reponse": "fought"
+      },
+      {
+        "id": 98,
+        "question": "Quel est le participe passé du verbe 'to find' (trouver) ?",
+        "reponses": ["found", "finds", "finding", "finded"],
+        "bonne_reponse": "found"
+      },
+      {
+        "id": 99,
+        "question": "Quel est le prétérit du verbe 'to fly' (voler) ?",
+        "reponses": ["flew", "flies", "flying", "flyed"],
+        "bonne_reponse": "flew"
+      },
+      {
+        "id": 100,
+        "question": "Quel est le participe passé du verbe 'to forbid' (interdire) ?",
+        "reponses": ["forbade", "forbids", "forbid", "forbidden"],
+        "bonne_reponse": "forbidden"
+      },
+      {
+        "id": 101,
+        "question": "Quel est le prétérit du verbe 'to forget' (oublier) ?",
+        "reponses": ["forgot", "forgets", "forgetting", "forgeted"],
+        "bonne_reponse": "forgot"
+      },
+      {
+        "id": 102,
+        "question": "Quel est le participe passé du verbe 'to forgive' (pardonner) ?",
+        "reponses": ["forgave", "forgiven", "forgives", "forgiving"],
+        "bonne_reponse": "forgiven"
+      },
+      {
+        "id": 103,
+        "question": "Quel est le prétérit du verbe 'to freeze' (geler) ?",
+        "reponses": ["froze", "freezes", "freezing", "freezed"],
+        "bonne_reponse": "froze"
+      },
+      {
+        "id": 104,
+        "question": "Quel est le participe passé du verbe 'to get' (obtenir) ?",
+        "reponses": ["got", "gotten", "gets", "getting"],
+        "bonne_reponse": "gotten"
+      },
+      {
+        "id": 105,
+        "question": "Quel est le prétérit du verbe 'to give' (donner) ?",
+        "reponses": ["gave", "gives", "giving", "gived"],
+        "bonne_reponse": "gave"
+      },
+      {
+        "id": 106,
+        "question": "Quel est le participe passé du verbe 'to go' (aller) ?",
+        "reponses": ["went", "gone", "going", "goes"],
+        "bonne_reponse": "gone"
+      },
+      {
+        "id": 107,
+        "question": "Quel est le prétérit du verbe 'to grow' (croître) ?",
+        "reponses": ["grew", "grows", "growing", "growed"],
+        "bonne_reponse": "grew"
+      },
+      {
+        "id": 108,
+        "question": "Quel est le participe passé du verbe 'to hang' (pendre) ?",
+        "reponses": ["hung", "hangs", "hanging", "hanged"],
+        "bonne_reponse": "hung"
+      },
+      {
+        "id": 109,
+        "question": "Quel est le prétérit du verbe 'to have' (avoir) ?",
+        "reponses": ["had", "have", "has", "having"],
+        "bonne_reponse": "had"
+      },
+      {
+        "id": 110,
+        "question": "Quel est le participe passé du verbe 'to hear' (entendre) ?",
+        "reponses": ["heard", "hears", "hearing", "heared"],
+        "bonne_reponse": "heard"
+      },
+      {
+        "id": 111,
+        "question": "Quel est le prétérit du verbe 'to hide' (cacher) ?",
+        "reponses": ["hid", "hides", "hiding", "hided"],
+        "bonne_reponse": "hid"
+      },
+      {
+        "id": 112,
+        "question": "Quel est le participe passé du verbe 'to hit' (frapper) ?",
+        "reponses": ["hit", "hits", "hitting", "hitted"],
+        "bonne_reponse": "hit"
+      },
+      {
+        "id": 113,
+        "question": "Quel est le prétérit du verbe 'to hold' (tenir) ?",
+        "reponses": ["held", "holds", "holding", "holded"],
+        "bonne_reponse": "held"
+      },
+      {
+        "id": 114,
+        "question": "Quel est le participe passé du verbe 'to hurt' (blesser) ?",
+        "reponses": ["hurt", "hurts", "hurting", "hurted"],
+        "bonne_reponse": "hurt"
+      },
+      {
+        "id": 115,
+        "question": "Quel est le prétérit du verbe 'to keep' (garder) ?",
+        "reponses": ["kept", "keeps", "keeping", "keeped"],
+        "bonne_reponse": "kept"
+      },
+      {
+        "id": 116,
+        "question": "Quel est le participe passé du verbe 'to kneel' (s'agenouiller) ?",
+        "reponses": ["knelt", "kneels", "kneeling", "kneeled"],
+        "bonne_reponse": "knelt"
+      },
+      {
+        "id": 117,
+        "question": "Quel est le prétérit du verbe 'to know' (savoir) ?",
+        "reponses": ["knew", "knows", "knowing", "knowed"],
+        "bonne_reponse": "knew"
+      },
+      {
+        "id": 118,
+        "question": "Quel est le participe passé du verbe 'to lay' (poser) ?",
+        "reponses": ["laid", "lays", "laying", "layed"],
+        "bonne_reponse": "laid"
+      },
+      {
+        "id": 119,
+        "question": "Quel est le prétérit du verbe 'to lead' (mener) ?",
+        "reponses": ["led", "leads", "leading", "leaded"],
+        "bonne_reponse": "led"
+      },
+      {
+        "id": 120,
+        "question": "Quel est le participe passé du verbe 'to leap' (sauter) ?",
+        "reponses": ["leapt", "leaps", "leaping", "leaped"],
+        "bonne_reponse": "leapt"
+      },
+      {
+        "id": 121,
+        "question": "Quel est le prétérit du verbe 'to learn' (apprendre) ?",
+        "reponses": ["learnt", "learns", "learning", "learned"],
+        "bonne_reponse": "learnt"
+      },
+      {
+        "id": 122,
+        "question": "Quel est le participe passé du verbe 'to leave' (partir) ?",
+        "reponses": ["left", "leaves", "leaving", "leaved"],
+        "bonne_reponse": "left"
+      },
+      {
+        "id": 123,
+        "question": "Quel est le prétérit du verbe 'to lend' (prêter) ?",
+        "reponses": ["lent", "lended", "lends", "lend"],
+        "bonne_reponse": "lent"
+      },
+      {
+        "id": 124,
+        "question": "Quel est le participe passé du verbe 'to let' (laisser) ?",
+        "reponses": ["let", "letted", "lets", "letting"],
+        "bonne_reponse": "let"
+      },
+      {
+        "id": 125,
+        "question": "Quel est le prétérit du verbe 'to lie' (être allongé) ?",
+        "reponses": ["lay", "lies", "laying", "lied"],
+        "bonne_reponse": "lay"
+      },
+      {
+        "id": 126,
+        "question": "Quel est le participe passé du verbe 'to lose' (perdre) ?",
+        "reponses": ["lost", "loses", "losing", "loss"],
+        "bonne_reponse": "lost"
+      },
+      {
+        "id": 127,
+        "question": "Quel est le prétérit du verbe 'to make' (faire) ?",
+        "reponses": ["made", "makes", "making", "maked"],
+        "bonne_reponse": "made"
+      },
+      {
+        "id": 128,
+        "question": "Quel est le participe passé du verbe 'to mean' (signifier) ?",
+        "reponses": ["meant", "means", "meaning", "meaned"],
+        "bonne_reponse": "meant"
+      },
+      {
+        "id": 129,
+        "question": "Quel est le prétérit du verbe 'to meet' (rencontrer) ?",
+        "reponses": ["met", "meets", "meeting", "meet"],
+        "bonne_reponse": "met"
+      },
+      {
+        "id": 130,
+        "question": "Quel est le participe passé du verbe 'to pay' (payer) ?",
+        "reponses": ["paid", "pays", "paying", "payed"],
+        "bonne_reponse": "paid"
+      },
+      {
+        "id": 131,
+        "question": "Quel est le prétérit du verbe 'to put' (mettre) ?",
+        "reponses": ["put", "puts", "putting", "putted"],
+        "bonne_reponse": "put"
+      },
+      {
+        "id": 132,
+        "question": "Quel est le participe passé du verbe 'to read' (lire) ?",
+        "reponses": ["read", "reads", "reading", "red"],
+        "bonne_reponse": "read"
+      },
+      {
+        "id": 133,
+        "question": "Quel est le prétérit du verbe 'to ride' (monter à cheval) ?",
+        "reponses": ["rode", "rides", "riding", "rided"],
+        "bonne_reponse": "rode"
+      },
+      {
+        "id": 134,
+        "question": "Quel est le participe passé du verbe 'to ring' (sonner) ?",
+        "reponses": ["rang", "ringed", "rings", "rung"],
+        "bonne_reponse": "rung"
+      },
+      {
+        "id": 135,
+        "question": "Quel est le prétérit du verbe 'to rise' (s'élever) ?",
+        "reponses": ["rose", "rises", "rising", "rised"],
+        "bonne_reponse": "rose"
+      },
+      {
+        "id": 136,
+        "question": "Quel est le participe passé du verbe 'to run' (courir) ?",
+        "reponses": ["ran", "run", "running", "runned"],
+        "bonne_reponse": "run"
+      },
+      {
+        "id": 137,
+        "question": "Quel est le prétérit du verbe 'to say' (dire) ?",
+        "reponses": ["said", "says", "saying", "sayed"],
+        "bonne_reponse": "said"
+      },
+      {
+        "id": 138,
+        "question": "Quel est le participe passé du verbe 'to see' (voir) ?",
+        "reponses": ["saw", "sees", "seeing", "seen"],
+        "bonne_reponse": "seen"
+      },
+      {
+        "id": 139,
+        "question": "Quel est le prétérit du verbe 'to sell' (vendre) ?",
+        "reponses": ["sold", "sells", "selling", "selled"],
+        "bonne_reponse": "sold"
+      },
+      {
+        "id": 140,
+        "question": "Quel est le participe passé du verbe 'to send' (envoyer) ?",
+        "reponses": ["sent", "sends", "sending", "sended"],
+        "bonne_reponse": "sent"
+      },
+      {
+        "id": 141,
+        "question": "Quel est le prétérit du verbe 'to set' (mettre/placer) ?",
+        "reponses": ["set", "sets", "setting", "setted"],
+        "bonne_reponse": "set"
+      },
+      {
+        "id": 142,
+        "question": "Quel est le participe passé du verbe 'to sew' (coudre) ?",
+        "reponses": ["sewn", "sews", "sewing", "sewed"],
+        "bonne_reponse": "sewn"
+      },
+      {
+        "id": 143,
+        "question": "Quel est le prétérit du verbe 'to shake' (secouer) ?",
+        "reponses": ["shook", "shakes", "shaking", "shaked"],
+        "bonne_reponse": "shook"
+      },
+      {
+        "id": 144,
+        "question": "Quel est le participe passé du verbe 'to shine' (briller) ?",
+        "reponses": ["shone", "shines", "shining", "shined"],
+        "bonne_reponse": "shone"
+      },
+      {
+        "id": 145,
+        "question": "Quel est le prétérit du verbe 'to shoot' (tirer) ?",
+        "reponses": ["shot", "shoots", "shooting", "shooted"],
+        "bonne_reponse": "shot"
+      },
+      {
+        "id": 146,
+        "question": "Quel est le participe passé du verbe 'to show' (montrer) ?",
+        "reponses": ["shown", "shows", "showing", "showed"],
+        "bonne_reponse": "shown"
+      },
+      {
+        "id": 147,
+        "question": "Quel est le prétérit du verbe 'to shut' (fermer) ?",
+        "reponses": ["shut", "shuts", "shutting", "shutted"],
+        "bonne_reponse": "shut"
+      },
+      {
+        "id": 148,
+        "question": "Quel est le participe passé du verbe 'to sing' (chanter) ?",
+        "reponses": ["sung", "sings", "singing", "sang"],
+        "bonne_reponse": "sung"
+      },
+      {
+        "id": 149,
+        "question": "Quel est le prétérit du verbe 'to sink' (couler) ?",
+        "reponses": ["sank", "sinks", "sinking", "sinked"],
+        "bonne_reponse": "sank"
+      },
+      {
+        "id": 150,
+        "question": "Quel est le participe passé du verbe 'to sit' (s'asseoir) ?",
+        "reponses": ["sat", "sits", "sitting", "sitted"],
+        "bonne_reponse": "sat"
+      },
+      {
+        "id": 151,
+        "question": "Quel est le prétérit du verbe 'to sleep' (dormir) ?",
+        "reponses": ["slept", "sleeps", "sleeping", "sleeped"],
+        "bonne_reponse": "slept"
+      },
+      {
+        "id": 152,
+        "question": "Quel est le participe passé du verbe 'to speak' (parler) ?",
+        "reponses": ["spoken", "speaks", "speaking", "spoke"],
+        "bonne_reponse": "spoken"
+      },
+      {
+        "id": 153,
+        "question": "Quel est le prétérit du verbe 'to spend' (dépenser) ?",
+        "reponses": ["spent", "spends", "spending", "spended"],
+        "bonne_reponse": "spent"
+      },
+      {
+        "id": 154,
+        "question": "Quel est le participe passé du verbe 'to spill' (renverser) ?",
+        "reponses": ["spilt", "spills", "spilling", "spilled"],
+        "bonne_reponse": "spilt"
+      },
+      {
+        "id": 155,
+        "question": "Quel est le prétérit du verbe 'to spin' (tourner) ?",
+        "reponses": ["spun", "spins", "spinning", "spinned"],
+        "bonne_reponse": "spun"
+      }
+]
